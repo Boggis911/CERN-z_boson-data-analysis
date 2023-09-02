@@ -1,4 +1,4 @@
-# CERN-z_boson-data-analysis
+# CERN-z_boson-data-analysis with Python
 
 The main objectives of the algorithm are to interpret the given dataset, find 
 the distribution of the given energy values and obtain the function that accurately approximates the distribution.
